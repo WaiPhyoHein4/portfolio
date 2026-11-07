@@ -1,0 +1,1 @@
+Put your certificate, Formula Student, CAD and achievement photos in this folder. Keep file names simple, e.g. cert-1.jpg, fsae-1.jpg, cad-1.jpg (no spaces).
