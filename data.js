@@ -20,55 +20,55 @@ window.SITE = {
     "id": "c1",
     "file": "images/cert-1.jpg",
     "title": "Certificate 1",
-    "desc": "Write a short description"
+    "desc": "JLPT N2 95.7% score : Reading full score "
    },
    {
     "id": "c2",
     "file": "images/cert-2.png",
     "title": "Certificate 2",
-    "desc": "Write a short description"
+    "desc": "CATIA Training : Clicktop Engineering Co.,Ltd "
    },
    {
     "id": "c3",
     "file": "images/cert-3.jpg",
     "title": "Certificate 3",
-    "desc": "Write a short description"
+    "desc": "IELTS Band 7.5: Reading 8.5"
    },
    {
     "id": "c4",
     "file": "images/cert-4.png",
     "title": "Certificate 4",
-    "desc": "Write a short description"
+    "desc": "Solidworks Training : Clicktop Engineering Co., Ltd "
    },
    {
     "id": "c5",
     "file": "images/cert-5.jpg",
     "title": "Certificate 5",
-    "desc": "Write a short description"
+    "desc": "Academic Excellence Dean's List 2026"
    },
    {
     "id": "c6",
     "file": "images/cert-6.jpg",
     "title": "Certificate 6",
-    "desc": "Write a short description"
+    "desc": "Batteries & Electric Vehicles: Arizona State University "
    },
    {
     "id": "c7",
     "file": "images/cert-7.jpg",
     "title": "Certificate 7",
-    "desc": "Write a short description"
+    "desc": "Academic Excellence Dean's List 2025"
    },
    {
     "id": "c8",
     "file": "images/cert-8.jpg",
     "title": "Certificate 8",
-    "desc": "Write a short description"
+    "desc": " Industrial Internet of Things: University of Michigan "
    },
    {
     "id": "c9",
     "file": "images/cert-9.jpg",
     "title": "Certificate 9",
-    "desc": "Write a short description"
+    "desc": "  Material Science: UCDAVIS "
    }
   ],
   "fsae": [
