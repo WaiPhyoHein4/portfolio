@@ -186,103 +186,103 @@ window.SITE = {
     "id": "d1",
     "file": "images/cad-1.jpg",
     "title": "CAD Drawing 1",
-    "desc": "Write a short description"
+    "desc": " Solidworks Assembly: Accumulator Container "
    },
    {
     "id": "d2",
     "file": "images/cad-2.jpg",
     "title": "CAD Drawing 2",
-    "desc": "Write a short description"
+    "desc": " Solidworks Part: Tractive System Light "
    },
    {
     "id": "d3",
     "file": "images/cad-3.jpg",
     "title": "CAD Drawing 3",
-    "desc": "Write a short description"
+    "desc": " Solidworks: Safety Box Assembly exploded view "
    },
    {
     "id": "d4",
     "file": "images/cad-4.jpg",
     "title": "CAD Drawing 4",
-    "desc": "Write a short description"
+    "desc": " Solidworks: Fuse GLV part drawing"
    },
    {
     "id": "d5",
     "file": "images/cad-5.jpg",
     "title": "CAD Drawing 5",
-    "desc": "Write a short description"
+    "desc": " Solidworks: VCU Assembly "
    },
    {
     "id": "d6",
     "file": "images/cad-6.jpg",
     "title": "CAD Drawing 6",
-    "desc": "Write a short description"
+    "desc": " Solidworks: EV racecar body structure "
    },
    {
     "id": "d7",
     "file": "images/cad-7.jpg",
     "title": "CAD Drawing 7",
-    "desc": "Write a short description"
+    "desc": " Solidworks: LV Battery System Assembly "
    },
    {
     "id": "d8",
     "file": "images/cad-8.jpg",
     "title": "CAD Drawing 8",
-    "desc": "Write a short description"
+    "desc": " Solidworks: Banana Jack "
    },
    {
     "id": "d9",
     "file": "images/cad-9.jpg",
     "title": "CAD Drawing 9",
-    "desc": "Write a short description"
+    "desc": " Solidworks: DC-to-DC converter "
    },
    {
     "id": "d10",
     "file": "images/cad-10.jpg",
     "title": "CAD Drawing 10",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d11",
     "file": "images/cad-11.jpg",
     "title": "CAD Drawing 11",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d12",
     "file": "images/cad-12.jpg",
     "title": "CAD Drawing 12",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d13",
     "file": "images/cad-13.jpg",
     "title": "CAD Drawing 13",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d14",
     "file": "images/cad-14.jpg",
     "title": "CAD Drawing 14",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d15",
     "file": "images/cad-15.jpg",
     "title": "CAD Drawing 15",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d16",
     "file": "images/cad-16.jpg",
     "title": "CAD Drawing 16",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    },
    {
     "id": "d17",
     "file": "images/cad-17.jpg",
     "title": "CAD Drawing 17",
-    "desc": "Write a short description"
+    "desc": " CATIA surface modeling fundamental "
    }
   ],
   "ach": [
