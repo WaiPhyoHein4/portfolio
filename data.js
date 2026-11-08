@@ -293,10 +293,10 @@ window.SITE = {
     "file": "images/ach-1.jpg"
    },
    {
-    "id": "a4",
-    "title": "Honored Student Excellence Award",
+    "id": "a2",
+    "title": "National All-Rounder Talented Student Award 2020",
     "desc": "Kasetsart University, for academic excellence across the first and second undergraduate years.",
-    "file": "images/ach-4.jpg"
+    "file": "images/ach-2.jpg"
    },
    {
     "id": "a3",
@@ -305,10 +305,10 @@ window.SITE = {
     "file": "images/ach3.jpg"
    },
    {
-    "id": "a2",
-    "title": "National All-Rounder Talented Student Award 2020",
+    "id": "a4",
+    "title": "Honored Student Excellence Award",
     "desc": "Selected from more than 400 candidates across academics, sports and reasoning.",
-    "file": "images/ach-2.jpg"
+    "file": "images/ach-4.jpg"
    },
    {
     "id": "a5",
