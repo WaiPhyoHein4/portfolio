@@ -313,8 +313,8 @@ window.SITE = {
    {
     "id": "a5",
     "file": "images/ach-5.jpg",
-    "title": "Achievement 5",
-    "desc": "Write a short description"
+    "title": " Kasetsart University Academic Excellence Award ",
+    "desc": " 2025 Dean's list "
    }
   ]
  }
