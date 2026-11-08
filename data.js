@@ -76,109 +76,109 @@ window.SITE = {
     "id": "f1",
     "file": "images/fsae-1.jpg",
     "title": "Formula Student 1",
-    "desc": "Write a short description"
+    "desc": "mechanical and electrical maintenance repairs"
    },
    {
     "id": "f2",
     "file": "images/fsae-2.jpg",
     "title": "Formula Student 2",
-    "desc": "Write a short description"
+    "desc": "Sheet metal cotainer fabrication for low voltage assembly"
    },
    {
     "id": "f3",
     "file": "images/fsae-3.jpg",
     "title": "Formula Student 3",
-    "desc": "Write a short description"
+    "desc": "Business pitching: ROI, KPI, SWOT & Market Strategy"
    },
    {
     "id": "f4",
     "file": "images/fsae-4.jpg",
     "title": "Formula Student 4",
-    "desc": "Write a short description"
+    "desc": "HV Battery Disassembly"
    },
    {
     "id": "f5",
     "file": "images/fsae-5.jpg",
     "title": "Formula Student 5",
-    "desc": "Write a short description"
+    "desc": " Grinding & power tools: Workshop practices "
    },
    {
     "id": "f6",
     "file": "images/fsae-6.jpg",
     "title": "Formula Student 6",
-    "desc": "Write a short description"
+    "desc": "Wiring diagram design & wiring layout"
    },
    {
     "id": "f7",
     "file": "images/fsae-7.jpg",
     "title": "Formula Student 7",
-    "desc": "Write a short description"
+    "desc": "Hydraulic Testing for the Impact Attenuator"
    },
    {
     "id": "f8",
     "file": "images/fsae-8.jpg",
     "title": "Formula Student 8",
-    "desc": "Write a short description"
+    "desc": "VCU Controller Box Designing"
    },
    {
     "id": "f9",
     "file": "images/fsae-9.jpg",
     "title": "Formula Student 9",
-    "desc": "Write a short description"
+    "desc": " Sheet metal work & measurements precision"
    },
    {
     "id": "f10",
     "file": "images/fsae-10.jpg",
     "title": "Formula Student 10",
-    "desc": "Write a short description"
+    "desc": " Handtools Practical uses"
    },
    {
     "id": "f11",
     "file": "images/fsae-11.jpg",
     "title": "Formula Student 11",
-    "desc": "Write a short description"
+    "desc": "Solidworks Simulation for the bracket design"
    },
    {
     "id": "f12",
     "file": "images/fsae-12.jpg",
     "title": "Formula Student 12",
-    "desc": "Write a short description"
+    "desc": "Carbon Fiber shaping for the Car Body"
    },
    {
     "id": "f13",
     "file": "images/fsae-13.jpg",
     "title": "Formula Student 13",
-    "desc": "Write a short description"
+    "desc": "Business Plan Prototype for future large scale market"
    },
    {
     "id": "f14",
     "file": "images/fsae-14.jpg",
     "title": "Formula Student 14",
-    "desc": "Write a short description"
+    "desc": "Solidworks 3D & 2D drawings"
    },
    {
     "id": "f15",
     "file": "images/fsae-15.jpg",
     "title": "Formula Student 15",
-    "desc": "Write a short description"
+    "desc": "Digital Devices use: Power Analyzer: Current, Voltage & Power"
    },
    {
     "id": "f16",
     "file": "images/fsae-16.jpg",
     "title": "Formula Student 16",
-    "desc": "Write a short description"
+    "desc": "Design Presentation Graphics Designer"
    },
    {
     "id": "f17",
     "file": "images/fsae-17.jpg",
     "title": "Formula Student 17",
-    "desc": "Write a short description"
+    "desc": "Chassis Dynamometer Testing"
    },
    {
     "id": "f18",
     "file": "images/fsae-18.jpg",
     "title": "Formula Student 18",
-    "desc": "Write a short description"
+    "desc": " Cost Books & Cost Scenario Briefing"
    }
   ],
   "cad": [
