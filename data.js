@@ -24,7 +24,7 @@ window.SITE = {
    },
    {
     "id": "c2",
-    "file": "images/cert-2.jpg",
+    "file": "images/cert-2.png",
     "title": "Certificate 2",
     "desc": "Write a short description"
    },
@@ -36,7 +36,7 @@ window.SITE = {
    },
    {
     "id": "c4",
-    "file": "images/cert-4.jpg",
+    "file": "images/cert-4.png",
     "title": "Certificate 4",
     "desc": "Write a short description"
    },
@@ -302,7 +302,7 @@ window.SITE = {
     "id": "a3",
     "title": "UM-AUN 2026 Summer Camp, Malaysia",
     "desc": "One of two Kasetsart representatives for a sustainability and technology program with ASEAN+3 participants.",
-    "file": "images/ach-3.jpg"
+    "file": "images/ach3.jpg"
    },
    {
     "id": "a4",
