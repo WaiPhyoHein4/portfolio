@@ -295,7 +295,8 @@ window.SITE = {
    {
     "id": "a2",
     "title": "National All-Rounder Talented Student Award 2020",
-    "desc": "Selected from more than 400 candidates across academics, sports and reasoning": "images/ach-2.jpg"
+    "desc": "Selected from more than 400 candidates across academics, sports and reasoning." ,
+   "file" : "images/ach-2.jpg"
    },
    {
     "id": "a3",
@@ -307,7 +308,6 @@ window.SITE = {
     "id": "a4",
     "title": "Honored Student Excellence Award",
     "desc": "Kasetsart University, for academic excellence across the first and second undergraduate years.",
-    "file.",
     "file": "images/ach-4.jpg"
    },
    {
